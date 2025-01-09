@@ -1,0 +1,8 @@
+ <svg width="120" height="72" viewBox="0 0 120 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M24 36C24 16.1178 40.1178 0 60 0C79.8823 0 96 16.1178 96 36V72H24V36Z" fill="white"/>
+        <circle cx="60" cy="36" r="24" fill="#F2F2F2"/>
+        <path d="M60 29V43" stroke="#18A94A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M67 36L60 43L53 36" stroke="#18A94A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0 72H24V48C24 61.2548 13.2548 72 0 72Z" fill="white"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M120 72H96V48C96 61.2548 106.745 72 120 72Z" fill="white"/>
+        </svg>
